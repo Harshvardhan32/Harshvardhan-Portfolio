@@ -1,4 +1,3 @@
-<a href="https://harshvardhan-dev-portfolio.netlify.app/">Wisit our Portfolio</a>
 # Harshvardhan's Portfolio
 
 Welcome to Harshvardhan's portfolio website, a showcase of my skills, projects, and experiences. This space is designed to provide a comprehensive overview of who I am as a professional, highlighting my passion for technology and innovation.
