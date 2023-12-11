@@ -5,6 +5,19 @@ header {
     padding: 5px 0px;
 }
 
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000814;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #585D69;
+  border-radius: 10px;
+}
+
 :root {
     --light-slate: #2D343F;
     --dark-slate: #1B1F24;
